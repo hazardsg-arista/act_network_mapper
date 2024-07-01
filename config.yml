@@ -1,0 +1,28 @@
+# API username to connect to switches to create clab topology
+api_user: admin
+# API password to connect to switches to create clab topology
+api_password: admin
+# List of switches to query for clab topology
+switch_list:
+  - 172.31.0.11
+  - 172.31.0.12
+  - 172.31.0.13
+  - 172.31.0.14
+  - 172.31.0.15
+  - 172.31.0.16
+  - 172.31.0.17
+  - 172.31.0.18
+  - 172.31.0.20
+  - 172.31.0.21
+  - 172.31.0.22
+  - 172.31.0.23
+  - 172.31.0.24
+  - 172.31.0.25
+  - 172.31.0.26
+  - 172.31.0.28
+  - 172.31.0.29
+  - 172.31.0.30
+  - 172.31.0.31
+  - 172.31.0.32
+  - 172.31.0.202
+

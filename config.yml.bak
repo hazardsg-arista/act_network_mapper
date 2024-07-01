@@ -1,0 +1,16 @@
+# API username to connect to switches to create clab topology
+api_user: admin
+# API password to connect to switches to create clab topology
+api_password: Arista123!
+# List of switches to query for clab topology
+switch_list:
+  - 10.18.168.108
+  - 10.18.168.104
+  - 10.18.168.102
+  - 10.18.168.107
+  - 10.18.168.110
+  - 10.18.168.109
+  - 10.18.165.81
+  - 10.18.165.15
+  - 10.18.161.192
+  - 10.18.168.106
