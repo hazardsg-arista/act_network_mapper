@@ -1,7 +1,6 @@
 import pyeapi
 import jinja2
 import yaml
-import os
 from pprint import pprint
 
 with open("act/device_models.yml", "r") as f:

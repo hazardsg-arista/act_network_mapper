@@ -1,2 +1,3 @@
 *.cfg
-act/topology*
+.venv
+.venv/*
